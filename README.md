@@ -1,7 +1,7 @@
 # Physics-Informed Material Strength Prediction
 
 ## Overview
-To **compressive strength of concrete** using a combination of **machine learning** and **physics-informed reasoning**. By integrating domain knowledge from **materials science and civil engineering**, the model achieves high predictive accuracy while providing actionable insights for engineers and decision-makers.  
+Predicts the **compressive strength of concrete** using a combination of **machine learning** and **physics-informed reasoning**. By integrating domain knowledge from **materials science and civil engineering**, the model achieves high predictive accuracy while providing actionable insights for engineers and decision-makers.  
 
 The goal is to demonstrate how **physics-guided feature engineering** can improve traditional data-driven approaches, enhancing both **interpretability** and **reliability**.
 
